@@ -1,16 +1,20 @@
-## Hi there 👋
+# Assalamualaikum! 👋
 
-<!--
-**parvezkabirsakib/parvezkabirsakib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me
 
-Here are some ideas to get you started:
+- 🎓 Pursuing a B.Sc. in Computer Science and Engineering at Daffodil International University.
+- 💻 Skilled in Frontend Development using HTML, CSS, and JavaScript.
+- 🌐 Experienced in WordPress Customization and Email Signature Design.
+- 🎬 Skilled in Video Editing and Audio/Voice Editing.
+- 🚀 Experienced in working on web development and digital media projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills & Technologies
+
+- **Frontend:** HTML, CSS, JavaScript
+- **Web Development:** WordPress
+- **Other Skills:** Email Signature Design, Video Editing, Audio Editing
+
+### 📂 Projects
+
+- **[Orbit Combustion Lab](https://github.com/parvezkabirsakib/Orbit_Combustion_Lab)** — Interactive web project built with HTML, CSS, and JavaScript.
+- **[DoraPocket](https://github.com/parvezkabirsakib/Front_End_Dorapocket_updated)** — Frontend e-commerce website built with HTML, CSS, and JavaScript.
