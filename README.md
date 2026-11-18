@@ -1,4 +1,8 @@
-# Assalamualaikum! 👋
+<p align="center">
+  <img src="banner.png" width="100%" alt="Profile Banner">
+</p>
+
+# Hey There! 👋
 
 ### 👨‍💻 About Me
 
